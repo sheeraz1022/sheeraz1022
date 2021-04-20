@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Sheeraz Shaikh currently based in Malaysia. I am currently working as  Full Stack Developer (more towards Frontend Developer) at REA Asia. I am comfortable on using ReactJS, NodeJS, GraphQL, AWS Lambda, MongoDB as tech stack. I have around 8 years of Professional Industry Experience. 
+
+I love to talk about technology specially the modern web development. If you have something to discuss about technology, you can collaborate with me.
+
+You can reach out to me on [Linkedin](https://www.linkedin.com/in/sheerazshaikh)
+
+
 <!--
 **sheeraz1022/sheeraz1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
